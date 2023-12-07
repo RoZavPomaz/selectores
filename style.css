@@ -1,0 +1,25 @@
+* {
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+h1 {
+    background-color: brown;
+    text-align: center;
+    color: white;
+
+}
+
+.imagen {
+    text-align: center;
+}
+
+.tipos h3 {
+    background-color: black;
+    color: white;
+}
+
+.descripcion {
+    background-color: steelblue;
+    margin: 20px;
+}
